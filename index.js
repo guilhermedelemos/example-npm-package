@@ -1,2 +1,3 @@
 const sum = require('./src/sum');
-module.exports = sum;
+const subtract = require('./src/subtract');
+module.exports = {sum, subtract};
