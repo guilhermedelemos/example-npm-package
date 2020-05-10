@@ -1,0 +1,23 @@
+{
+  "name": "@guilhermedelemos/example-npm-package",
+  "version": "1.0.0",
+  "description": "npm package example",
+  "author": "Guilherme de Lemos <guilherme.eti@gmail.com>",
+  "license": "GPL-3.0-only",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermedelemos/example-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guilhermedelemos/example-npm-package/issues"
+  },
+  "homepage": "https://github.com/guilhermedelemos/example-npm-package#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
